@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4e40c8d2e281b894e8f667b096ebe4f1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320749
+  packageName: Ocean / Water shader (URP)
+  packageVersion: 1.0
+  assetPath: Assets/OceanWaterShaderURP/Mesh/plane 10.prefab
+  uploadId: 760694

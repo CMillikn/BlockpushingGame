@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Water calm
+  m_Shader: {fileID: 4800000, guid: d90178c71ef63b647af6e08fbd477002, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Wave_3_Texture:
+        m_Texture: {fileID: 2800000, guid: 542ea81831492da4680839d61556656c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Waves_3_Texture:
+        m_Texture: {fileID: 2800000, guid: 542ea81831492da4680839d61556656c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FoamTexture:
+        m_Texture: {fileID: 2800000, guid: 6e35ba133bf05804d8bb58bc6102e6d7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 542ea81831492da4680839d61556656c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2D_Array:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - OpagueLevel: 1
+    - Opague_Level: 1
+    - Refraction: 0.9877
+    - TestValue: 1
+    - TestValue_2: 1
+    - Wave_1_Edges: 8.96
+    - Wave_1_Height: 0
+    - Wave_1_Move_X: 0.051
+    - Wave_1_Move_Y: 0.012
+    - Wave_1_Normal_Strngth: 0.04
+    - Wave_1_Scale: 13.2
+    - Wave_1_Shape_Y: 0.529
+    - Wave_1_Time: 3.53
+    - Wave_1_bg_Scale: 0
+    - Wave_2_Height: 0.32
+    - Wave_2_Horiz_Shake: 0.331
+    - Wave_2_Horiz_Shake_Scale: 1.37
+    - Wave_2_Normal_Strngth: 0.4
+    - Wave_2_Normal_Strngth_A: 0.445
+    - Wave_2_Normal_Strngth_B: 0.403
+    - Wave_2_Scale: 2.14
+    - Wave_2_Time: 0.36
+    - Wave_3_Move: 0.012
+    - Wave_3_Move_X: 0.032
+    - Wave_3_Move_Y: -0.023
+    - Wave_3_Normal_Strngth_A: 0.099
+    - Wave_3_Normal_Strngth_B: 0.081
+    - Wave_Density: 3
+    - Wave_Edges: 3
+    - Wave_Speed: 3
+    - Wave_Time: 2.79
+    - _AddPrecomputedVelocity: 0
+    - _AlphaClip: 0
+    - _AlphaToMask: 0
+    - _Blend: 0
+    - _BlendModePreserveSpecular: 1
+    - _BumpScale: 1
+    - _ClearCoatMask: 0
+    - _ClearCoatSmoothness: 0
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DepthDistribution: 0
+    - _DepthPower: 0.19
+    - _DepthStrength: 0.17
+    - _DepthValue: 0.134
+    - _DetailAlbedoMapScale: 1
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _DstBlendAlpha: 0
+    - _EdgeBlendDistribution: 0
+    - _EdgeBlendStrength: 1
+    - _Enable_Foam: 0
+    - _EnvironmentReflections: 1
+    - _FoamDistribution: 2.07
+    - _FoamStrength: 0.24
+    - _Foam_Bump: 0
+    - _Foam_Scale: 2.63
+    - _GlossMapScale: 0
+    - _Glossiness: 0
+    - _GlossyReflections: 0
+    - _Metallic: 0
+    - _Occlusion: 1
+    - _OcclusionStrength: 1
+    - _Parallax: 0.005
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _Smoothhness: 1
+    - _Smoothness: 0.5
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _SrcBlendAlpha: 1
+    - _Strength_1: 100
+    - _Strength_2: 2
+    - _Surface: 0
+    - _Wave_1_All_Color: 1
+    - _Wave_1_Mode_B: 0
+    - _Wave_1_Normal_Strngth: 0.0113
+    - _Wave_1_Shape_X: 0.517
+    - _Wave_4_Enable: 0
+    - _WorkflowMode: 1
+    - _Xtra_Mode: 1
+    - _ZWrite: 1
+    m_Colors:
+    - TestVector2: {r: 5, g: 5, b: 0, a: 0}
+    - WaterColor0: {r: 0.39716092, g: 0.6725774, b: 0.990566, a: 1}
+    - Water_Body_Color: {r: 0.052020274, g: 0.056483146, b: 0.066037714, a: 1}
+    - WaveColor0: {r: 0.7311321, g: 0.89310074, b: 1, a: 1}
+    - Wave_1_Color: {r: 0.043253817, g: 0.11320752, b: 0.093220755, a: 1}
+    - Wave_3_Scale_A: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - Wave_3_Scale_B: {r: 2, g: 2, b: 0, a: 0}
+    - Wave_Edge_Color: {r: 0.102127105, g: 0.16037738, b: 0.16037738, a: 1}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.4811321, g: 0.4289338, b: 0.4289338, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FoamColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _col_1: {r: 0.20932718, g: 0.9056604, b: 0.24555978, a: 1}
+    - _col_2: {r: 0.4805981, g: 0.6763973, b: 0.754717, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &1849966255946123172
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9

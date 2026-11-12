@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 7ae09318d7d78fa0c8cca86dcdae9ae6
+  - enabled: 1
+    path: Assets/Scenes/Level 1 Tutorialization.unity
+    guid: 5c4f5657aab9f7368b6cdc4fbc758409
+  - enabled: 1
+    path: Assets/Scenes/Level 2 Complex Arrangement.unity
+    guid: f904743bc7b35d8339ee4e3ae11642ae
+  - enabled: 1
+    path: Assets/Scenes/Level 3 Sea Spider.unity
+    guid: f1212ea3f6a4d52b1b9f0e07708e5c19
+  - enabled: 1
+    path: Assets/Scenes/Success.unity
+    guid: d8e84981bf8a0aff5a4c1c4a1cdc35f9
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 503a2c411457f4b4490d533606f76d75
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320749
+  packageName: Ocean / Water shader (URP)
+  packageVersion: 1.0
+  assetPath: Assets/OceanWaterShaderURP/Shader/OceanWaterShaderURP.shader
+  uploadId: 760694

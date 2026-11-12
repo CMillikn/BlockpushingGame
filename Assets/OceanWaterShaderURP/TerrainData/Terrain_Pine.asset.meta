@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e9df2bb7900f83948b72ae5e8d95e608
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320749
+  packageName: Ocean / Water shader (URP)
+  packageVersion: 1.0
+  assetPath: Assets/OceanWaterShaderURP/TerrainData/Terrain_Pine.asset
+  uploadId: 760694

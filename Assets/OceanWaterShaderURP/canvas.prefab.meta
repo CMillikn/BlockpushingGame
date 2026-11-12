@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 406d0b65a3571eb499e8d13b08a806cd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320749
+  packageName: Ocean / Water shader (URP)
+  packageVersion: 1.0
+  assetPath: Assets/OceanWaterShaderURP/canvas.prefab
+  uploadId: 760694

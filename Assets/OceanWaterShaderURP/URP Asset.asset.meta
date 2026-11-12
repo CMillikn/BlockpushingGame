@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 27de381975672ee4fb563d555059f601
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320749
+  packageName: Ocean / Water shader (URP)
+  packageVersion: 1.0
+  assetPath: Assets/OceanWaterShaderURP/URP Asset.asset
+  uploadId: 760694
